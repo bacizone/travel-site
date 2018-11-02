@@ -1,2 +1,4 @@
 This is a change
 And this is a new thing for the tomato branchq
+
+New text has been added for the vario branch.
